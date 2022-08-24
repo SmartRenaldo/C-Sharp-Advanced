@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\bin\Debug\net6.0\06-Genericity.exe
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\bin\Debug\net6.0\06-Genericity.deps.json
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\bin\Debug\net6.0\06-Genericity.runtimeconfig.json
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\bin\Debug\net6.0\06-Genericity.dll
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\bin\Debug\net6.0\06-Genericity.pdb
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\obj\Debug\net6.0\06-Genericity.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\obj\Debug\net6.0\06-Genericity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\obj\Debug\net6.0\06-Genericity.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\obj\Debug\net6.0\06-Genericity.AssemblyInfo.cs
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\obj\Debug\net6.0\06-Genericity.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\obj\Debug\net6.0\06-Genericity.dll
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\obj\Debug\net6.0\refint\06-Genericity.dll
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\obj\Debug\net6.0\06-Genericity.pdb
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\obj\Debug\net6.0\06-Genericity.genruntimeconfig.cache
+C:\Projects\C# Advanced\06-Genericity\06-Genericity\obj\Debug\net6.0\ref\06-Genericity.dll
