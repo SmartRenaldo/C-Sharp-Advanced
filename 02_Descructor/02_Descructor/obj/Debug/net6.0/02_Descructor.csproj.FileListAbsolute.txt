@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\bin\Debug\net6.0\02_Descructor.exe
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\bin\Debug\net6.0\02_Descructor.deps.json
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\bin\Debug\net6.0\02_Descructor.runtimeconfig.json
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\bin\Debug\net6.0\02_Descructor.dll
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\bin\Debug\net6.0\02_Descructor.pdb
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\obj\Debug\net6.0\02_Descructor.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\obj\Debug\net6.0\02_Descructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\obj\Debug\net6.0\02_Descructor.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\obj\Debug\net6.0\02_Descructor.AssemblyInfo.cs
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\obj\Debug\net6.0\02_Descructor.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\obj\Debug\net6.0\02_Descructor.dll
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\obj\Debug\net6.0\refint\02_Descructor.dll
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\obj\Debug\net6.0\02_Descructor.pdb
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\obj\Debug\net6.0\02_Descructor.genruntimeconfig.cache
+C:\Projects\C# Advanced\02_Descructor\02_Descructor\obj\Debug\net6.0\ref\02_Descructor.dll
