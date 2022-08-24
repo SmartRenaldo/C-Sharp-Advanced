@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\bin\Debug\net6.0\08-SelfDefinedGenericity.exe
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\bin\Debug\net6.0\08-SelfDefinedGenericity.deps.json
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\bin\Debug\net6.0\08-SelfDefinedGenericity.runtimeconfig.json
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\bin\Debug\net6.0\08-SelfDefinedGenericity.dll
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\bin\Debug\net6.0\08-SelfDefinedGenericity.pdb
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\obj\Debug\net6.0\08-SelfDefinedGenericity.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\obj\Debug\net6.0\08-SelfDefinedGenericity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\obj\Debug\net6.0\08-SelfDefinedGenericity.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\obj\Debug\net6.0\08-SelfDefinedGenericity.AssemblyInfo.cs
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\obj\Debug\net6.0\08-SelfDefinedGenericity.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\obj\Debug\net6.0\08-SelfDefinedGenericity.dll
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\obj\Debug\net6.0\refint\08-SelfDefinedGenericity.dll
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\obj\Debug\net6.0\08-SelfDefinedGenericity.pdb
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\obj\Debug\net6.0\08-SelfDefinedGenericity.genruntimeconfig.cache
+C:\Projects\C# Advanced\08-SelfDefinedGenericity\08-SelfDefinedGenericity\obj\Debug\net6.0\ref\08-SelfDefinedGenericity.dll
