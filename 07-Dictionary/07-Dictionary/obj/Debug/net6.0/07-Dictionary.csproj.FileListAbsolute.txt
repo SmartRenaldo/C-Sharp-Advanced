@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\bin\Debug\net6.0\07-Dictionary.exe
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\bin\Debug\net6.0\07-Dictionary.deps.json
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\bin\Debug\net6.0\07-Dictionary.runtimeconfig.json
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\bin\Debug\net6.0\07-Dictionary.dll
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\bin\Debug\net6.0\07-Dictionary.pdb
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\obj\Debug\net6.0\07-Dictionary.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\obj\Debug\net6.0\07-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\obj\Debug\net6.0\07-Dictionary.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\obj\Debug\net6.0\07-Dictionary.AssemblyInfo.cs
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\obj\Debug\net6.0\07-Dictionary.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\obj\Debug\net6.0\07-Dictionary.dll
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\obj\Debug\net6.0\refint\07-Dictionary.dll
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\obj\Debug\net6.0\07-Dictionary.pdb
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\obj\Debug\net6.0\07-Dictionary.genruntimeconfig.cache
+C:\Projects\C# Advanced\07-Dictionary\07-Dictionary\obj\Debug\net6.0\ref\07-Dictionary.dll
