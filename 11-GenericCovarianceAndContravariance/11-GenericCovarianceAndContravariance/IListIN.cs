@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace _11_GenericCovarianceAndContravariance
 {
-    internal interface IListIN
+    public interface IListIN<in T>
     {
+        void Show(T item);
     }
 }

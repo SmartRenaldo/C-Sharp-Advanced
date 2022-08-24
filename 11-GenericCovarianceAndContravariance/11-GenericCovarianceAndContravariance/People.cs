@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace _11_GenericCovarianceAndContravariance
 {
-    internal class People
+    public class People
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
