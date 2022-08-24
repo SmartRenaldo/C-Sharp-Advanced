@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\bin\Debug\net6.0\01-Constructor.exe
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\bin\Debug\net6.0\01-Constructor.deps.json
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\bin\Debug\net6.0\01-Constructor.runtimeconfig.json
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\bin\Debug\net6.0\01-Constructor.dll
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\bin\Debug\net6.0\01-Constructor.pdb
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\obj\Debug\net6.0\01-Constructor.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\obj\Debug\net6.0\01-Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\obj\Debug\net6.0\01-Constructor.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\obj\Debug\net6.0\01-Constructor.AssemblyInfo.cs
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\obj\Debug\net6.0\01-Constructor.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\obj\Debug\net6.0\01-Constructor.dll
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\obj\Debug\net6.0\refint\01-Constructor.dll
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\obj\Debug\net6.0\01-Constructor.pdb
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\obj\Debug\net6.0\01-Constructor.genruntimeconfig.cache
+C:\Projects\C# Advanced\01-Constructor\01-Constructor\obj\Debug\net6.0\ref\01-Constructor.dll
