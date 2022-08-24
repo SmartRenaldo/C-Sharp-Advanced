@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\bin\Debug\net6.0\05-ExtensionMethod.exe
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\bin\Debug\net6.0\05-ExtensionMethod.deps.json
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\bin\Debug\net6.0\05-ExtensionMethod.runtimeconfig.json
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\bin\Debug\net6.0\05-ExtensionMethod.dll
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\bin\Debug\net6.0\05-ExtensionMethod.pdb
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\obj\Debug\net6.0\05-ExtensionMethod.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\obj\Debug\net6.0\05-ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\obj\Debug\net6.0\05-ExtensionMethod.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\obj\Debug\net6.0\05-ExtensionMethod.AssemblyInfo.cs
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\obj\Debug\net6.0\05-ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\obj\Debug\net6.0\05-ExtensionMethod.dll
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\obj\Debug\net6.0\refint\05-ExtensionMethod.dll
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\obj\Debug\net6.0\05-ExtensionMethod.pdb
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\obj\Debug\net6.0\05-ExtensionMethod.genruntimeconfig.cache
+C:\Projects\C# Advanced\05-ExtensionMethod\05-ExtensionMethod\obj\Debug\net6.0\ref\05-ExtensionMethod.dll
