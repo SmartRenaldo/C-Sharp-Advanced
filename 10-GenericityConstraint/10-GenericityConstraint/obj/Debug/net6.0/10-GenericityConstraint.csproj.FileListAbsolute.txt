@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\bin\Debug\net6.0\10-GenericityConstraint.exe
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\bin\Debug\net6.0\10-GenericityConstraint.deps.json
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\bin\Debug\net6.0\10-GenericityConstraint.runtimeconfig.json
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\bin\Debug\net6.0\10-GenericityConstraint.dll
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\bin\Debug\net6.0\10-GenericityConstraint.pdb
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\obj\Debug\net6.0\10-GenericityConstraint.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\obj\Debug\net6.0\10-GenericityConstraint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\obj\Debug\net6.0\10-GenericityConstraint.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\obj\Debug\net6.0\10-GenericityConstraint.AssemblyInfo.cs
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\obj\Debug\net6.0\10-GenericityConstraint.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\obj\Debug\net6.0\10-GenericityConstraint.dll
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\obj\Debug\net6.0\refint\10-GenericityConstraint.dll
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\obj\Debug\net6.0\10-GenericityConstraint.pdb
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\obj\Debug\net6.0\10-GenericityConstraint.genruntimeconfig.cache
+C:\Projects\C# Advanced\10-GenericityConstraint\10-GenericityConstraint\obj\Debug\net6.0\ref\10-GenericityConstraint.dll
