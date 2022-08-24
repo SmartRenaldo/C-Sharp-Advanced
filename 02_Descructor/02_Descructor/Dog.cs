@@ -12,7 +12,7 @@
             Console.WriteLine("Wang");
         }
 
-        void IDisposable.Dispose()
+        public void Dispose()
         {
             throw new NotImplementedException();
         }

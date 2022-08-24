@@ -6,6 +6,7 @@
         {
             Dog.Bark();
             Dog d = new Dog();
+            d.
         }
     }
 }
