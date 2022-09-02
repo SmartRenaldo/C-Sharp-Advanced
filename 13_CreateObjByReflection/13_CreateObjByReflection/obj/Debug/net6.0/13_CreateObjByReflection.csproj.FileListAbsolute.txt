@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\bin\Debug\net6.0\13_CreateObjByReflection.exe
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\bin\Debug\net6.0\13_CreateObjByReflection.deps.json
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\bin\Debug\net6.0\13_CreateObjByReflection.runtimeconfig.json
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\bin\Debug\net6.0\13_CreateObjByReflection.dll
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\bin\Debug\net6.0\13_CreateObjByReflection.pdb
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\obj\Debug\net6.0\13_CreateObjByReflection.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\obj\Debug\net6.0\13_CreateObjByReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\obj\Debug\net6.0\13_CreateObjByReflection.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\obj\Debug\net6.0\13_CreateObjByReflection.AssemblyInfo.cs
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\obj\Debug\net6.0\13_CreateObjByReflection.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\obj\Debug\net6.0\13_CreateObjByReflection.dll
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\obj\Debug\net6.0\refint\13_CreateObjByReflection.dll
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\obj\Debug\net6.0\13_CreateObjByReflection.pdb
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\obj\Debug\net6.0\13_CreateObjByReflection.genruntimeconfig.cache
+C:\Projects\C# Advanced\13_CreateObjByReflection\13_CreateObjByReflection\obj\Debug\net6.0\ref\13_CreateObjByReflection.dll
