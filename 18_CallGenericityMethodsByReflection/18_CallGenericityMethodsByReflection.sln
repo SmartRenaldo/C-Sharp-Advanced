@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_CallGenericityMethodsByReflection", "18_CallGenericityMethodsByReflection\18_CallGenericityMethodsByReflection.csproj", "{4DA64723-4836-4597-B6F1-EB4C3849A28F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA64723-4836-4597-B6F1-EB4C3849A28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA64723-4836-4597-B6F1-EB4C3849A28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA64723-4836-4597-B6F1-EB4C3849A28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA64723-4836-4597-B6F1-EB4C3849A28F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA659BCF-C1D7-442F-A674-566CBA6A2EFA}
+	EndGlobalSection
+EndGlobal
