@@ -10,7 +10,8 @@ namespace _22_CreateAttribute
     {
         static void Main(string[] args)
         {
-            UseMyAttribute useMyAttribute = new UseMyAttribute();
+            TestMyAttribute myAttribute = new TestMyAttribute();
+            myAttribute.Test();
         }
     }
 }
