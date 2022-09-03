@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\bin\Debug\net6.0\19_HandleAttributesByReflection.exe
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\bin\Debug\net6.0\19_HandleAttributesByReflection.deps.json
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\bin\Debug\net6.0\19_HandleAttributesByReflection.runtimeconfig.json
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\bin\Debug\net6.0\19_HandleAttributesByReflection.dll
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\bin\Debug\net6.0\19_HandleAttributesByReflection.pdb
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\obj\Debug\net6.0\19_HandleAttributesByReflection.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\obj\Debug\net6.0\19_HandleAttributesByReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\obj\Debug\net6.0\19_HandleAttributesByReflection.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\obj\Debug\net6.0\19_HandleAttributesByReflection.AssemblyInfo.cs
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\obj\Debug\net6.0\19_HandleAttributesByReflection.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\obj\Debug\net6.0\19_HandleAttributesByReflection.dll
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\obj\Debug\net6.0\refint\19_HandleAttributesByReflection.dll
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\obj\Debug\net6.0\19_HandleAttributesByReflection.pdb
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\obj\Debug\net6.0\19_HandleAttributesByReflection.genruntimeconfig.cache
+C:\Projects\C# Advanced\19_HandleAttributesByReflection\19_HandleAttributesByReflection\obj\Debug\net6.0\ref\19_HandleAttributesByReflection.dll
