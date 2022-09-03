@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\bin\Debug\net6.0\22_CreateAttribute.exe
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\bin\Debug\net6.0\22_CreateAttribute.deps.json
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\bin\Debug\net6.0\22_CreateAttribute.runtimeconfig.json
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\bin\Debug\net6.0\22_CreateAttribute.dll
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\bin\Debug\net6.0\22_CreateAttribute.pdb
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\obj\Debug\net6.0\22_CreateAttribute.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\obj\Debug\net6.0\22_CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\obj\Debug\net6.0\22_CreateAttribute.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\obj\Debug\net6.0\22_CreateAttribute.AssemblyInfo.cs
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\obj\Debug\net6.0\22_CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\obj\Debug\net6.0\22_CreateAttribute.dll
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\obj\Debug\net6.0\refint\22_CreateAttribute.dll
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\obj\Debug\net6.0\22_CreateAttribute.pdb
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\obj\Debug\net6.0\22_CreateAttribute.genruntimeconfig.cache
+C:\Projects\C# Advanced\22_CreateAttribute\22_CreateAttribute\obj\Debug\net6.0\ref\22_CreateAttribute.dll
