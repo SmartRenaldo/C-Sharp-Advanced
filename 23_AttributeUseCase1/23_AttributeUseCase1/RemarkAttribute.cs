@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _23_AttributeUseCase1
 {
-    [AttributeUsage]
+    [AttributeUsage(AttributeTargets.Field)]
     public class RemarkAttribute : Attribute
     {
         /// <summary>

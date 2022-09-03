@@ -12,7 +12,7 @@ namespace _23_AttributeUseCase1
         {
             CoffeeState state = CoffeeState.Large;
 
-            if (state == CoffeeState.Small)
+            /*if (state == CoffeeState.Small)
             {
                 Console.WriteLine("Small Coffee");
             }
@@ -23,7 +23,10 @@ namespace _23_AttributeUseCase1
             else if (state == CoffeeState.Large)
             {
                 Console.WriteLine("Large Coffee");
-            }
+            }*/
+
+            AttributeInvoke attributeInvoke = new AttributeInvoke();
+            Console.WriteLine(attributeInvoke.GetRemark(state) + " Coffee");
         }
     }
 }
