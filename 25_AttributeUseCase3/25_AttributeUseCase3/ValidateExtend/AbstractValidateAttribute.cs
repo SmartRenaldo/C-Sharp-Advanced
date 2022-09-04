@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace _25_AttributeUseCase3.ValidateExtend
 {
-    public class AbstractValidateAttribute
+    public abstract class AbstractValidateAttribute : Attribute
     {
+        public abstract bool Validate(object value);
     }
 }

@@ -18,7 +18,7 @@ namespace _25_AttributeUseCase3.ValidateExtend
 
         public override bool Validate(object value)
         {
-            return value != null && value.ToString().Length == 10;
+            return value != null && value.ToString().Length == lenght;
         }
     }
 }

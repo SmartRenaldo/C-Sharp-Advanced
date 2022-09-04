@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\bin\Debug\net6.0\25_AttributeUseCase3.exe
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\bin\Debug\net6.0\25_AttributeUseCase3.deps.json
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\bin\Debug\net6.0\25_AttributeUseCase3.runtimeconfig.json
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\bin\Debug\net6.0\25_AttributeUseCase3.dll
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\bin\Debug\net6.0\25_AttributeUseCase3.pdb
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\obj\Debug\net6.0\25_AttributeUseCase3.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\obj\Debug\net6.0\25_AttributeUseCase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\obj\Debug\net6.0\25_AttributeUseCase3.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\obj\Debug\net6.0\25_AttributeUseCase3.AssemblyInfo.cs
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\obj\Debug\net6.0\25_AttributeUseCase3.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\obj\Debug\net6.0\25_AttributeUseCase3.dll
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\obj\Debug\net6.0\refint\25_AttributeUseCase3.dll
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\obj\Debug\net6.0\25_AttributeUseCase3.pdb
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\obj\Debug\net6.0\25_AttributeUseCase3.genruntimeconfig.cache
+C:\Projects\C# Advanced\25_AttributeUseCase3\25_AttributeUseCase3\obj\Debug\net6.0\ref\25_AttributeUseCase3.dll
