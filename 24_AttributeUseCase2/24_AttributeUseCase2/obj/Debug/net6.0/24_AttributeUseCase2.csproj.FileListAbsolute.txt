@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\obj\Debug\net6.0\24_AttributeUseCase2.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\obj\Debug\net6.0\24_AttributeUseCase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\obj\Debug\net6.0\24_AttributeUseCase2.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\obj\Debug\net6.0\24_AttributeUseCase2.AssemblyInfo.cs
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\obj\Debug\net6.0\24_AttributeUseCase2.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\bin\Debug\net6.0\24_AttributeUseCase2.exe
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\bin\Debug\net6.0\24_AttributeUseCase2.deps.json
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\bin\Debug\net6.0\24_AttributeUseCase2.runtimeconfig.json
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\bin\Debug\net6.0\24_AttributeUseCase2.dll
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\bin\Debug\net6.0\24_AttributeUseCase2.pdb
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\obj\Debug\net6.0\24_AttributeUseCase2.dll
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\obj\Debug\net6.0\refint\24_AttributeUseCase2.dll
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\obj\Debug\net6.0\24_AttributeUseCase2.pdb
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\obj\Debug\net6.0\24_AttributeUseCase2.genruntimeconfig.cache
+C:\Projects\C# Advanced\24_AttributeUseCase2\24_AttributeUseCase2\obj\Debug\net6.0\ref\24_AttributeUseCase2.dll
