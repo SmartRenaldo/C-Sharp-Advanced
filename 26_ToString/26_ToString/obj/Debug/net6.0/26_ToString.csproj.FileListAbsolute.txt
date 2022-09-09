@@ -1,0 +1,15 @@
+C:\Projects\Linq\26_ToString\26_ToString\bin\Debug\net6.0\26_ToString.exe
+C:\Projects\Linq\26_ToString\26_ToString\bin\Debug\net6.0\26_ToString.deps.json
+C:\Projects\Linq\26_ToString\26_ToString\bin\Debug\net6.0\26_ToString.runtimeconfig.json
+C:\Projects\Linq\26_ToString\26_ToString\bin\Debug\net6.0\26_ToString.dll
+C:\Projects\Linq\26_ToString\26_ToString\bin\Debug\net6.0\26_ToString.pdb
+C:\Projects\Linq\26_ToString\26_ToString\obj\Debug\net6.0\26_ToString.csproj.AssemblyReference.cache
+C:\Projects\Linq\26_ToString\26_ToString\obj\Debug\net6.0\26_ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Linq\26_ToString\26_ToString\obj\Debug\net6.0\26_ToString.AssemblyInfoInputs.cache
+C:\Projects\Linq\26_ToString\26_ToString\obj\Debug\net6.0\26_ToString.AssemblyInfo.cs
+C:\Projects\Linq\26_ToString\26_ToString\obj\Debug\net6.0\26_ToString.csproj.CoreCompileInputs.cache
+C:\Projects\Linq\26_ToString\26_ToString\obj\Debug\net6.0\26_ToString.dll
+C:\Projects\Linq\26_ToString\26_ToString\obj\Debug\net6.0\refint\26_ToString.dll
+C:\Projects\Linq\26_ToString\26_ToString\obj\Debug\net6.0\26_ToString.pdb
+C:\Projects\Linq\26_ToString\26_ToString\obj\Debug\net6.0\26_ToString.genruntimeconfig.cache
+C:\Projects\Linq\26_ToString\26_ToString\obj\Debug\net6.0\ref\26_ToString.dll
