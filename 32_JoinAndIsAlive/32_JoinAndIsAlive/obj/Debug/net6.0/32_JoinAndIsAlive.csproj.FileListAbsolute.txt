@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\bin\Debug\net6.0\32_JoinAndIsAlive.exe
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\bin\Debug\net6.0\32_JoinAndIsAlive.deps.json
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\bin\Debug\net6.0\32_JoinAndIsAlive.runtimeconfig.json
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\bin\Debug\net6.0\32_JoinAndIsAlive.dll
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\bin\Debug\net6.0\32_JoinAndIsAlive.pdb
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\obj\Debug\net6.0\32_JoinAndIsAlive.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\obj\Debug\net6.0\32_JoinAndIsAlive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\obj\Debug\net6.0\32_JoinAndIsAlive.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\obj\Debug\net6.0\32_JoinAndIsAlive.AssemblyInfo.cs
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\obj\Debug\net6.0\32_JoinAndIsAlive.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\obj\Debug\net6.0\32_JoinAndIsAlive.dll
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\obj\Debug\net6.0\refint\32_JoinAndIsAlive.dll
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\obj\Debug\net6.0\32_JoinAndIsAlive.pdb
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\obj\Debug\net6.0\32_JoinAndIsAlive.genruntimeconfig.cache
+C:\Projects\C# Advanced\32_JoinAndIsAlive\32_JoinAndIsAlive\obj\Debug\net6.0\ref\32_JoinAndIsAlive.dll
