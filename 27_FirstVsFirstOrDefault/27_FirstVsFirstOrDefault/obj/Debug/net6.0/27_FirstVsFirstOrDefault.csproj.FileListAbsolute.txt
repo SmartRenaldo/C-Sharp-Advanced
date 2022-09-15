@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\obj\Debug\net6.0\27_FirstVsFirstOrDefault.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\obj\Debug\net6.0\27_FirstVsFirstOrDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\obj\Debug\net6.0\27_FirstVsFirstOrDefault.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\obj\Debug\net6.0\27_FirstVsFirstOrDefault.AssemblyInfo.cs
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\obj\Debug\net6.0\27_FirstVsFirstOrDefault.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\bin\Debug\net6.0\27_FirstVsFirstOrDefault.exe
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\bin\Debug\net6.0\27_FirstVsFirstOrDefault.deps.json
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\bin\Debug\net6.0\27_FirstVsFirstOrDefault.runtimeconfig.json
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\bin\Debug\net6.0\27_FirstVsFirstOrDefault.dll
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\bin\Debug\net6.0\27_FirstVsFirstOrDefault.pdb
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\obj\Debug\net6.0\27_FirstVsFirstOrDefault.dll
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\obj\Debug\net6.0\refint\27_FirstVsFirstOrDefault.dll
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\obj\Debug\net6.0\27_FirstVsFirstOrDefault.pdb
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\obj\Debug\net6.0\27_FirstVsFirstOrDefault.genruntimeconfig.cache
+C:\Projects\C# Advanced\27_FirstVsFirstOrDefault\27_FirstVsFirstOrDefault\obj\Debug\net6.0\ref\27_FirstVsFirstOrDefault.dll
