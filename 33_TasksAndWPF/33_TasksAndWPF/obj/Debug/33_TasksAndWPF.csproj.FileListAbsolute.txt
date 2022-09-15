@@ -1,0 +1,16 @@
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\bin\Debug\33_TasksAndWPF.exe.config
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\bin\Debug\33_TasksAndWPF.exe
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\bin\Debug\33_TasksAndWPF.pdb
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\33_TasksAndWPF.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\33_TasksAndWPF.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\MainWindow.g.cs
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\App.g.cs
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\33_TasksAndWPF_MarkupCompile.cache
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\33_TasksAndWPF_MarkupCompile.lref
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\MainWindow.baml
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\33_TasksAndWPF.g.resources
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\_33_TasksAndWPF.Properties.Resources.resources
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\33_TasksAndWPF.csproj.GenerateResource.cache
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\33_TasksAndWPF.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\33_TasksAndWPF.exe
+C:\Projects\C# Advanced\33_TasksAndWPF\33_TasksAndWPF\obj\Debug\33_TasksAndWPF.pdb
