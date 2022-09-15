@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\bin\Debug\net6.0\28_IEnumerableAndIEnumerator.exe
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\bin\Debug\net6.0\28_IEnumerableAndIEnumerator.deps.json
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\bin\Debug\net6.0\28_IEnumerableAndIEnumerator.runtimeconfig.json
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\bin\Debug\net6.0\28_IEnumerableAndIEnumerator.dll
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\bin\Debug\net6.0\28_IEnumerableAndIEnumerator.pdb
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\obj\Debug\net6.0\28_IEnumerableAndIEnumerator.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\obj\Debug\net6.0\28_IEnumerableAndIEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\obj\Debug\net6.0\28_IEnumerableAndIEnumerator.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\obj\Debug\net6.0\28_IEnumerableAndIEnumerator.AssemblyInfo.cs
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\obj\Debug\net6.0\28_IEnumerableAndIEnumerator.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\obj\Debug\net6.0\28_IEnumerableAndIEnumerator.dll
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\obj\Debug\net6.0\refint\28_IEnumerableAndIEnumerator.dll
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\obj\Debug\net6.0\28_IEnumerableAndIEnumerator.pdb
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\obj\Debug\net6.0\28_IEnumerableAndIEnumerator.genruntimeconfig.cache
+C:\Projects\C# Advanced\28_IEnumerableAndIEnumerator\28_IEnumerableAndIEnumerator\obj\Debug\net6.0\ref\28_IEnumerableAndIEnumerator.dll
