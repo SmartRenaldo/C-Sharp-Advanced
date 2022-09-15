@@ -1,0 +1,15 @@
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\bin\Debug\net6.0\30_ThreadStartAndEnd.exe
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\bin\Debug\net6.0\30_ThreadStartAndEnd.deps.json
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\bin\Debug\net6.0\30_ThreadStartAndEnd.runtimeconfig.json
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\bin\Debug\net6.0\30_ThreadStartAndEnd.dll
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\bin\Debug\net6.0\30_ThreadStartAndEnd.pdb
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\obj\Debug\net6.0\30_ThreadStartAndEnd.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\obj\Debug\net6.0\30_ThreadStartAndEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\obj\Debug\net6.0\30_ThreadStartAndEnd.AssemblyInfoInputs.cache
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\obj\Debug\net6.0\30_ThreadStartAndEnd.AssemblyInfo.cs
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\obj\Debug\net6.0\30_ThreadStartAndEnd.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\obj\Debug\net6.0\30_ThreadStartAndEnd.dll
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\obj\Debug\net6.0\refint\30_ThreadStartAndEnd.dll
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\obj\Debug\net6.0\30_ThreadStartAndEnd.pdb
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\obj\Debug\net6.0\30_ThreadStartAndEnd.genruntimeconfig.cache
+C:\Projects\C# Advanced\30_ThreadStartAndEnd\30_ThreadStartAndEnd\obj\Debug\net6.0\ref\30_ThreadStartAndEnd.dll
