@@ -36,9 +36,6 @@
 
         static IEnumerable<double> GetCollection(string s)
         {
-
-
-
             switch (s)
             {
                 case "1":
