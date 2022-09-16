@@ -1,0 +1,16 @@
+C:\Projects\C# .Net TCP IP Socket Programming\34_Regex\34_Regex\bin\Debug\34_Regex.exe.config
+C:\Projects\C# .Net TCP IP Socket Programming\34_Regex\34_Regex\bin\Debug\34_Regex.exe
+C:\Projects\C# .Net TCP IP Socket Programming\34_Regex\34_Regex\bin\Debug\34_Regex.pdb
+C:\Projects\C# .Net TCP IP Socket Programming\34_Regex\34_Regex\obj\Debug\34_Regex.csproj.AssemblyReference.cache
+C:\Projects\C# .Net TCP IP Socket Programming\34_Regex\34_Regex\obj\Debug\34_Regex.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C# .Net TCP IP Socket Programming\34_Regex\34_Regex\obj\Debug\34_Regex.csproj.CoreCompileInputs.cache
+C:\Projects\C# .Net TCP IP Socket Programming\34_Regex\34_Regex\obj\Debug\34_Regex.exe
+C:\Projects\C# .Net TCP IP Socket Programming\34_Regex\34_Regex\obj\Debug\34_Regex.pdb
+C:\Projects\C# Advanced\34_Regex\34_Regex\bin\Debug\34_Regex.exe.config
+C:\Projects\C# Advanced\34_Regex\34_Regex\bin\Debug\34_Regex.exe
+C:\Projects\C# Advanced\34_Regex\34_Regex\bin\Debug\34_Regex.pdb
+C:\Projects\C# Advanced\34_Regex\34_Regex\obj\Debug\34_Regex.csproj.AssemblyReference.cache
+C:\Projects\C# Advanced\34_Regex\34_Regex\obj\Debug\34_Regex.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C# Advanced\34_Regex\34_Regex\obj\Debug\34_Regex.csproj.CoreCompileInputs.cache
+C:\Projects\C# Advanced\34_Regex\34_Regex\obj\Debug\34_Regex.exe
+C:\Projects\C# Advanced\34_Regex\34_Regex\obj\Debug\34_Regex.pdb
